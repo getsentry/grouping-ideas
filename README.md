@@ -1,4 +1,7 @@
-# Workflow 2.0 Grouping
+# Grouping Ideas
 
-This is a work in progress repository for specs for workflow 2.0 related
-grouping enhancements.
+This is a playground for what grouping in the future could look like.  This relates to the
+[Workflow 2.0](https://github.com/getsentry/sentry/discussions/34970) discussions around
+grouping.
+
+* [Supergroups Proposal](SUPERGROUPS.md)
